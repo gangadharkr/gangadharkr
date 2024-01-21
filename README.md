@@ -1,5 +1,8 @@
 # 💫 About Me:
-I' m currently working on web design<br>I'm looking to collaborate with teams who need a web developer<br>I'm currently learning data structures in c++<br>Ask me about the queries on c++ and webdev<br>Fun fact- I love cricket and movies
+Versatile software developer looking to leverage my passion for problem solving and algorithm design into an engineering role that allows me to create engaging products and user experiences. I'm excited about the opportunity to work on meaningful projects that have a positive impact. Whether it's developing innovative software solutions, optimizing existing systems for performance, or troubleshooting complex issues, I am committed to delivering exceptional results that drive business success. I also have a strong aptitude for problem solving using data structures and algorithms.
+
+
+Feel free to reach out to me for collaboration, projects, or potential opportunities. You can find more details and explore my portfolio. I look forward to connecting with you!
 
 
 ## 🌐 Socials:
